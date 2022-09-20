@@ -166,22 +166,7 @@ header{
 }
 
 
-/* 
-.foot {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 50px;
-} */
-/* .foot img{
-    margin-right: 80vh;
-    width: 40px;
-} */
 
-/* .foot ul{
-    max-width: 400px;
-    transform: translatex(-75vh);
-} */
 
 ul li{
     display:inline-block;
@@ -232,10 +217,7 @@ i{
         margin-right: 50px;
 
 
-    }
-    main{
-     
-    }
+    
     .intro {
         display: flex;
         flex-direction: column;
@@ -302,9 +284,7 @@ i{
         transform:translateX(-30px)
     }
 
-    .two .features li {
-       
-    }
+    
     .three{
         display: flex;
         flex-direction: column;
@@ -397,7 +377,6 @@ i{
     
 
   .social-link{
-    
     
     margin-right:30px;
   }
